@@ -1,0 +1,33 @@
+.background {
+  background-image: url(http://nihilist.fm/wp-content/uploads/2014/11/546bc149f042b.png);
+  color: #ff0f00;
+  font-family: 'Special Elite', cursive;
+}
+
+.mainBox {
+  margin-top: 20vw;
+}
+
+.city {
+  font-size: 10vw;
+}
+
+.date {
+  font-size: 3vw;
+}
+
+.temperature {
+  font-size: 7vw;
+}
+
+.threshold:after {
+  content: "\00b0";
+}
+
+.conditions {
+  font-size: 4vw;
+}
+
+#icons {
+  font-size: 12vw;
+}
